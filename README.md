@@ -22,3 +22,6 @@ master
 
 Test6
 TortoiseGit Test by Tavitta
+
+Test 7
+Trying to resolve conflict by Tavitta
