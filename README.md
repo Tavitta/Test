@@ -24,4 +24,4 @@ Test6
 TortoiseGit Test by Tavitta
 
 # Test 7
-by GDSkeed
+by GDSkeed ®
